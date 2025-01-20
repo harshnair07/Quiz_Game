@@ -1,16 +1,19 @@
-# quizgame
+![image](https://github.com/user-attachments/assets/3baf9772-defa-45e1-9ffd-2affe2d3f686)
+this is main.dart
 
-A new Flutter project.
+![image](https://github.com/user-attachments/assets/52c6c31f-5dd2-4fe8-8f6f-dffb614a18bd)
+this is the code snippet for onboarding screen
 
-## Getting Started
+![image](https://github.com/user-attachments/assets/a3e2b3e1-a7d0-4695-be6c-17b649928157)
+this is the screen for questionnare
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/user-attachments/assets/90abe6e8-2ddd-4458-9aec-3dd8e6a556fe)
+this is the code snippets for  result screen
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+https://github.com/user-attachments/assets/89862572-66e6-4f9e-8ceb-d3b88bc213fe
+video link for the proper walkthorugh of app in an emulator 
